@@ -1,0 +1,97 @@
+leftnav:
+- identifier: 67d8bbeb-cf79-e5cf-45b4-867a52971191
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 2d43db48-3328-b21c-c4d1-4cb2553aac7c
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: 52607be9-aea6-7507-7c9b-63208de1dc23
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 30
+- identifier: 2f7103bb-0ef6-6b99-4167-f9c4053fcf47
+  name: Assignments Blog
+  pageRef: /pages/assignments/assignments_blog
+  parent: 52607be9-aea6-7507-7c9b-63208de1dc23
+  weight: 40
+- identifier: 2344fcea-f07d-68a5-284d-387d04395fac
+  name: Final Projects
+  pageRef: /pages/assignments/final-projects
+  parent: 52607be9-aea6-7507-7c9b-63208de1dc23
+  weight: 50
+- identifier: bb2b6672-555e-ea5b-16c9-9f46f09d4283
+  name: Classroom Notes
+  pageRef: /pages/classroom-notes/
+  weight: 60
+- identifier: 38619569-958c-c15a-142c-35a1f81fc036
+  name: Session 1
+  pageRef: /pages/classroom-notes/session-1-introduction
+  parent: bb2b6672-555e-ea5b-16c9-9f46f09d4283
+  weight: 70
+- identifier: 5cc5a4ab-a6c6-ea49-49bf-feb3defa5eba
+  name: Session 2
+  pageRef: /pages/classroom-notes/session-2
+  parent: bb2b6672-555e-ea5b-16c9-9f46f09d4283
+  weight: 80
+- identifier: 1b549c89-7141-a1c1-ffc8-0138e0deba9a
+  name: Session 3
+  pageRef: /pages/classroom-notes/session-3
+  parent: bb2b6672-555e-ea5b-16c9-9f46f09d4283
+  weight: 90
+- identifier: d2888c67-1e96-b6c4-912e-3dc39f9434a1
+  name: Session 4
+  pageRef: /pages/classroom-notes/session-4
+  parent: bb2b6672-555e-ea5b-16c9-9f46f09d4283
+  weight: 100
+- identifier: 88715ecf-52ac-02f2-c58e-8aea34a557dd
+  name: Session 5
+  pageRef: /pages/classroom-notes/session-5
+  parent: bb2b6672-555e-ea5b-16c9-9f46f09d4283
+  weight: 110
+- identifier: ddf53f7c-8a26-59f4-36ba-a69337cb5406
+  name: Session 6
+  pageRef: /pages/classroom-notes/session-6
+  parent: bb2b6672-555e-ea5b-16c9-9f46f09d4283
+  weight: 120
+- identifier: 3e698db3-5194-4f80-4243-7bd787bdf9af
+  name: Session 7
+  pageRef: /pages/classroom-notes/session-7
+  parent: bb2b6672-555e-ea5b-16c9-9f46f09d4283
+  weight: 130
+- identifier: 5ec8e6ae-ca03-1d56-0f7b-d9e21007a73f
+  name: Session 8
+  pageRef: /pages/classroom-notes/session-8
+  parent: bb2b6672-555e-ea5b-16c9-9f46f09d4283
+  weight: 140
+- identifier: 5015a111-35ed-760e-c45f-c2dacb591907
+  name: Session 9
+  pageRef: /pages/classroom-notes/session-9
+  parent: bb2b6672-555e-ea5b-16c9-9f46f09d4283
+  weight: 150
+- identifier: 41eacc29-e898-b9a8-6092-c59862cc79c8
+  name: Session 10
+  pageRef: /pages/classroom-notes/session-10
+  parent: bb2b6672-555e-ea5b-16c9-9f46f09d4283
+  weight: 160
+- identifier: 8b952f91-3d6b-9848-9e73-c9db2f27d56e
+  name: Session 11
+  pageRef: /pages/classroom-notes/session-11
+  parent: bb2b6672-555e-ea5b-16c9-9f46f09d4283
+  weight: 170
+- identifier: 7c23a907-32d8-7418-57ca-f909433616ec
+  name: Session 12
+  pageRef: /pages/classroom-notes/session-12
+  parent: bb2b6672-555e-ea5b-16c9-9f46f09d4283
+  weight: 180
+- identifier: 28ea91e9-10f8-8b76-42a8-76a7a820e504
+  name: Session 13
+  pageRef: /pages/classroom-notes/session-13
+  parent: bb2b6672-555e-ea5b-16c9-9f46f09d4283
+  weight: 190
+- identifier: 29476612-9c79-d53d-3059-f7b513ef5938
+  name: Session 14
+  pageRef: /pages/classroom-notes/session-14
+  parent: bb2b6672-555e-ea5b-16c9-9f46f09d4283
+  weight: 200
